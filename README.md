@@ -1,4 +1,4 @@
-# BuriedProj
+# BuriedPointProj
 
 C++客户端埋点SDK项目
 
